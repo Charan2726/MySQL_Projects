@@ -15,7 +15,7 @@ This project demonstrates my skills in database design, SQL query writing, and d
 - `schema.sql`: SQL script to create all tables
 - `insert_data.sql`: Sample data insertion
 - `queries.sql`: Set of useful SQL queries
-- `er_diagram.png`: (Optional) Visual of the database schema
+- `er_diagram.png`: Visual of the database schema
 
 ## 📈 Sample Queries
 - Total balance by branch
